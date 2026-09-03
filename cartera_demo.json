@@ -1,0 +1,225 @@
+{
+  "creada": "2026-09-01",
+  "efectivo": 2973.64,
+  "aportado_total": 10000.0,
+  "posiciones": {
+    "GFI": {
+      "empresa": "Gold Fields Limited",
+      "sector": "Basic Materials",
+      "pais": "South Africa",
+      "participaciones": 25.0,
+      "coste_eur": 973.42,
+      "precio_compra_eur": 38.937,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 8.0,
+      "z_compra": null
+    },
+    "ALL": {
+      "empresa": "Allstate Corporation (The)",
+      "sector": "Financial Services",
+      "pais": "United States",
+      "participaciones": 4.0,
+      "coste_eur": 892.17,
+      "precio_compra_eur": 222.827,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 8.0,
+      "z_compra": null
+    },
+    "BMY": {
+      "empresa": "Bristol-Myers Squibb Company",
+      "sector": "Healthcare",
+      "pais": "United States",
+      "participaciones": 17.0,
+      "coste_eur": 984.22,
+      "precio_compra_eur": 57.845,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 7.8,
+      "z_compra": null
+    },
+    "INCY": {
+      "empresa": "Incyte Corporation",
+      "sector": "Healthcare",
+      "pais": "United States",
+      "participaciones": 9.0,
+      "coste_eur": 957.8,
+      "precio_compra_eur": 106.3265,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 7.8,
+      "z_compra": null
+    },
+    "NEM": {
+      "empresa": "Newmont Corporation",
+      "sector": "Basic Materials",
+      "pais": "United States",
+      "participaciones": 9.0,
+      "coste_eur": 963.08,
+      "precio_compra_eur": 106.9128,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 7.7,
+      "z_compra": null
+    },
+    "SU": {
+      "empresa": "Suncor Energy  Inc.",
+      "sector": "Energy",
+      "pais": "Canada",
+      "participaciones": 16.0,
+      "coste_eur": 938.38,
+      "precio_compra_eur": 58.5951,
+      "fecha_compra": "2026-09-01",
+      "nota_compra": 7.7,
+      "z_compra": null
+    },
+    "HTGC": {
+      "empresa": "Hercules Capital, Inc.",
+      "sector": "Financial Services",
+      "pais": "United States",
+      "participaciones": 85.0,
+      "coste_eur": 1289.76,
+      "precio_compra_eur": 15.1636,
+      "fecha_compra": "2026-09-03",
+      "nota_compra": 7.7,
+      "z_compra": null
+    }
+  },
+  "movimientos": [
+    {
+      "fecha": "2026-08-20",
+      "tipo": "APORTACION",
+      "ticker": "-",
+      "importe_eur": 10000.0,
+      "participaciones": 0,
+      "comision": 0,
+      "motivo": "Capital inicial de la cuenta registrado como liquidez"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 5.16,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 8.6,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 5.16,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 3.44,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 3.44,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "GFI",
+      "importe_eur": 973.42,
+      "participaciones": 25.0,
+      "comision": 0.0,
+      "motivo": "Selección inicial (nota 8.0) · precio real 38.9370 €"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "ALL",
+      "importe_eur": 892.17,
+      "participaciones": 4.0,
+      "comision": 0.8622,
+      "motivo": "Selección inicial (nota 8.0) · precio real 222.8270 €"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "BMY",
+      "importe_eur": 984.22,
+      "participaciones": 17.0,
+      "comision": 0.8622,
+      "motivo": "Selección inicial (nota 7.8) · precio real 57.8450 €"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "INCY",
+      "importe_eur": 957.8,
+      "participaciones": 9.0,
+      "comision": 0.8622,
+      "motivo": "Selección inicial (nota 7.8) · precio real 106.3265 €"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "NEM",
+      "importe_eur": 963.08,
+      "participaciones": 9.0,
+      "comision": 0.8622,
+      "motivo": "Selección inicial (nota 7.7) · precio real 106.9128 €"
+    },
+    {
+      "fecha": "2026-09-01",
+      "tipo": "COMPRA",
+      "ticker": "SU",
+      "importe_eur": 938.38,
+      "participaciones": 16.0,
+      "comision": 0.8622,
+      "motivo": "Selección inicial (nota 7.7) · precio real 58.5951 €"
+    },
+    {
+      "fecha": "2026-09-03",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 1.73,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-03",
+      "tipo": "COMPRA",
+      "ticker": "HTGC",
+      "importe_eur": 1289.76,
+      "participaciones": 85.0,
+      "comision": 0.8603,
+      "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · precio real 15.1636 €"
+    }
+  ],
+  "historico": [
+    {
+      "fecha": "2026-09-01",
+      "valor": 9971.58,
+      "aportado": 10000.0
+    },
+    {
+      "fecha": "2026-09-03",
+      "valor": 10125.07,
+      "aportado": 10000.0
+    }
+  ],
+  "ultima_revision_dividendos": "2026-09-03"
+}
