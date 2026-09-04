@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 2973.64,
+  "efectivo": 2975.35,
   "aportado_total": 10000.0,
   "posiciones": {
     "GFI": {
@@ -219,7 +219,26 @@
       "fecha": "2026-09-03",
       "valor": 10125.07,
       "aportado": 10000.0
+    },
+    {
+      "fecha": "2026-09-04",
+      "valor": 10092.63,
+      "aportado": 10000.0
     }
   ],
-  "ultima_revision_dividendos": "2026-09-03"
+  "ultima_revision_dividendos": "2026-09-04",
+  "dividendos": [
+    {
+      "fecha": "2026-09-03",
+      "ticker": "NEM",
+      "pais": "United States",
+      "bruto_eur": 2.01,
+      "retencion_pct": 15.0,
+      "retenido_eur": 0.3,
+      "neto_eur": 1.71
+    }
+  ],
+  "dividendos_netos_acumulados": 1.71,
+  "dividendos_brutos_acumulados": 2.01,
+  "retencion_acumulada": 0.3
 }
