@@ -1,10 +1,10 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-09-04T14:46:05+00:00 UTC
+Última actualización de este libro: 2026-09-04T14:47:10+00:00 UTC
 
 Aportado total: 10000.00 €  
-Comisiones pagadas: 32.70 €
+Comisiones pagadas: 38.70 €
 
 ## Movimientos (orden cronológico)
 
@@ -24,6 +24,7 @@ Comisiones pagadas: 32.70 €
 | 2026-09-01 | COMPRA | SU | 938.38 | 16.0000 | 0.86 | Selección inicial (nota 7.7) · precio real 58.5951 € |
 | 2026-09-03 | COSTE_FX | - | 0.00 | 0.0000 | 1.73 | Conversión de divisa del lote · conversiones IDEALPRO |
 | 2026-09-03 | COMPRA | HTGC | 1289.76 | 85.0000 | 0.86 | Barrido de liquidez: nueva posición (hueco en cartera) · precio real 15.1636 € |
+| 2026-09-04 | COMPRA | NOS.LS | 1297.66 | 262.0000 | 6.00 | Barrido de liquidez: nueva posición (hueco en cartera) · precio real 4.9300 € |
 
 ## Dividendos cobrados
 
@@ -32,5 +33,5 @@ Comisiones pagadas: 32.70 €
 | 2026-09-03 | NEM | United States | 2.01 | 15.0% | 1.71 |
 
 ---
-*Huella SHA-256 de los movimientos en este commit: `a1012285ac316921fde9ebe4129ef35d8c26716a554fefc2fdd552093583cb3a`*
+*Huella SHA-256 de los movimientos en este commit: `019525377940be8dd274e9801e078b68db6129a69b8a8af28d20cafacfded631`*
 *Esta huella cambia si se añade, borra o edita cualquier movimiento — compárala entre commits para detectar cualquier alteración retroactiva.*

@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 2975.35,
+  "efectivo": 1677.69,
   "aportado_total": 10000.0,
   "posiciones": {
     "GFI": {
@@ -78,6 +78,17 @@
       "precio_compra_eur": 15.1636,
       "fecha_compra": "2026-09-03",
       "nota_compra": 7.7,
+      "z_compra": null
+    },
+    "NOS.LS": {
+      "empresa": "NOS, SGPS, SA",
+      "sector": "Communication Services",
+      "pais": "Portugal",
+      "participaciones": 262.0,
+      "coste_eur": 1297.66,
+      "precio_compra_eur": 4.93,
+      "fecha_compra": "2026-09-04",
+      "nota_compra": 7.3,
       "z_compra": null
     }
   },
@@ -207,6 +218,15 @@
       "participaciones": 85.0,
       "comision": 0.8603,
       "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · precio real 15.1636 €"
+    },
+    {
+      "fecha": "2026-09-04",
+      "tipo": "COMPRA",
+      "ticker": "NOS.LS",
+      "importe_eur": 1297.66,
+      "participaciones": 262.0,
+      "comision": 6.0,
+      "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · precio real 4.9300 €"
     }
   ],
   "historico": [
