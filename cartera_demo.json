@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 1882.78,
+  "efectivo": 632.19,
   "aportado_total": 10200.0,
   "posiciones": {
     "GFI": {
@@ -146,6 +146,20 @@
       "metodo": "eur_directo",
       "fecha_reconstruccion": "2026-09-05",
       "validacion": "OK"
+    },
+    "HAFN": {
+      "empresa": "Hafnia Limited",
+      "sector": "Industrials",
+      "pais": "Singapore",
+      "participaciones": 165.0,
+      "coste_eur": 1248.87,
+      "precio_compra_eur": 7.5689,
+      "fecha_compra": "2026-09-08",
+      "nota_compra": 7.3,
+      "z_compra": 1.437,
+      "moneda": "USD",
+      "precio_compra_nativo": 8.8,
+      "cambio_compra": 0.8600999712944031
     }
   },
   "movimientos": [
@@ -292,6 +306,24 @@
       "participaciones": 0,
       "comision": 0,
       "motivo": "Ingreso mensual registrado como liquidez"
+    },
+    {
+      "fecha": "2026-09-07",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 1.72,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-08",
+      "tipo": "COMPRA",
+      "ticker": "HAFN",
+      "importe_eur": 1248.87,
+      "participaciones": 165.0,
+      "comision": 0.0,
+      "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · fill diferido (reconciliación) · precio real 7.5689 €"
     }
   ],
   "historico": [
