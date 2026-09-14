@@ -1,7 +1,7 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-09-08T21:10:07+00:00 UTC
+Última actualización de este libro: 2026-09-14T13:05:27+00:00 UTC
 
 Aportado total: 10200.00 €  
 Comisiones pagadas: 40.42 €
@@ -35,6 +35,7 @@ Comisiones pagadas: 40.42 €
 |---|---|---|---|---|---|
 | 2026-09-03 | NEM | United States | 2.01 | 15.0% | 1.71 |
 | 2026-09-04 | SU | Canada | 5.98 | 15.0% | 5.09 |
+| 2026-09-11 | GFI | South Africa | 21.98 | 20.0% | 17.58 |
 
 ---
 *Huella SHA-256 de los movimientos en este commit: `5530acf866762f3b3ca02f621f1c0b12e8e45d38960677211d2a9087ac628a17`*

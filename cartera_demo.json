@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 632.19,
+  "efectivo": 649.77,
   "aportado_total": 10200.0,
   "posiciones": {
     "GFI": {
@@ -346,9 +346,14 @@
       "fecha": "2026-09-07",
       "valor": 10251.79,
       "aportado": 10200.0
+    },
+    {
+      "fecha": "2026-09-14",
+      "valor": 10346.87,
+      "aportado": 10200.0
     }
   ],
-  "ultima_revision_dividendos": "2026-09-07",
+  "ultima_revision_dividendos": "2026-09-14",
   "dividendos": [
     {
       "fecha": "2026-09-03",
@@ -367,11 +372,20 @@
       "retencion_pct": 15.0,
       "retenido_eur": 0.9,
       "neto_eur": 5.09
+    },
+    {
+      "fecha": "2026-09-11",
+      "ticker": "GFI",
+      "pais": "South Africa",
+      "bruto_eur": 21.98,
+      "retencion_pct": 20.0,
+      "retenido_eur": 4.4,
+      "neto_eur": 17.58
     }
   ],
-  "dividendos_netos_acumulados": 6.8,
-  "dividendos_brutos_acumulados": 7.99,
-  "retencion_acumulada": 1.2,
+  "dividendos_netos_acumulados": 24.38,
+  "dividendos_brutos_acumulados": 29.97,
+  "retencion_acumulada": 5.6,
   "desfase_efectivo_ibkr": {
     "eur": 300.03,
     "fecha": "2026-09-05",
