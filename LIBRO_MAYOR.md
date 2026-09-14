@@ -1,10 +1,10 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-09-14T13:05:27+00:00 UTC
+Última actualización de este libro: 2026-09-14T13:41:40+00:00 UTC
 
 Aportado total: 10200.00 €  
-Comisiones pagadas: 40.42 €
+Comisiones pagadas: 47.44 €
 
 ## Movimientos (orden cronológico)
 
@@ -28,6 +28,8 @@ Comisiones pagadas: 40.42 €
 | 2026-09-07 | APORTACION | - | 200.00 | 0.0000 | 0.00 | Ingreso mensual registrado como liquidez |
 | 2026-09-07 | COSTE_FX | - | 0.00 | 0.0000 | 1.72 | Conversión de divisa del lote · conversiones IDEALPRO |
 | 2026-09-08 | COMPRA | HAFN | 1248.87 | 165.0000 | 0.00 | Barrido de liquidez: nueva posición (hueco en cartera) · fill diferido (reconciliación) · precio real 7.5689 € |
+| 2026-09-14 | COSTE_FX | - | 0.00 | 0.0000 | 1.72 | Conversión de divisa del lote · conversiones IDEALPRO |
+| 2026-09-14 | COMPRA | LOGN.SW | 621.68 | 7.0000 | 5.30 | Barrido de liquidez: nueva posición (hueco en cartera) · precio real 88.0536 € |
 
 ## Dividendos cobrados
 
@@ -38,5 +40,5 @@ Comisiones pagadas: 40.42 €
 | 2026-09-11 | GFI | South Africa | 21.98 | 20.0% | 17.58 |
 
 ---
-*Huella SHA-256 de los movimientos en este commit: `5530acf866762f3b3ca02f621f1c0b12e8e45d38960677211d2a9087ac628a17`*
+*Huella SHA-256 de los movimientos en este commit: `44ee45eae80a2e6568a76aa0b284acfa942ce15b3803a100fac728672f31fb30`*
 *Esta huella cambia si se añade, borra o edita cualquier movimiento — compárala entre commits para detectar cualquier alteración retroactiva.*

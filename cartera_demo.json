@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 649.77,
+  "efectivo": 26.37,
   "aportado_total": 10200.0,
   "posiciones": {
     "GFI": {
@@ -160,6 +160,20 @@
       "moneda": "USD",
       "precio_compra_nativo": 8.8,
       "cambio_compra": 0.8600999712944031
+    },
+    "LOGN.SW": {
+      "empresa": "LOGITECH N",
+      "sector": "Technology",
+      "pais": "Switzerland",
+      "participaciones": 7.0,
+      "coste_eur": 621.68,
+      "precio_compra_eur": 88.0536,
+      "fecha_compra": "2026-09-14",
+      "nota_compra": 7.3,
+      "z_compra": 1.566,
+      "moneda": "CHF",
+      "precio_compra_nativo": 83.14,
+      "cambio_compra": 1.0591000318527222
     }
   },
   "movimientos": [
@@ -324,6 +338,24 @@
       "participaciones": 165.0,
       "comision": 0.0,
       "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · fill diferido (reconciliación) · precio real 7.5689 €"
+    },
+    {
+      "fecha": "2026-09-14",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 1.72,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-14",
+      "tipo": "COMPRA",
+      "ticker": "LOGN.SW",
+      "importe_eur": 621.68,
+      "participaciones": 7.0,
+      "comision": 5.2955,
+      "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · precio real 88.0536 €"
     }
   ],
   "historico": [
