@@ -1,7 +1,7 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 26.37,
-  "aportado_total": 10200.0,
+  "efectivo": 126.4,
+  "aportado_total": 10300.03,
   "posiciones": {
     "GFI": {
       "empresa": "Gold Fields Limited",
@@ -187,6 +187,15 @@
       "motivo": "Capital inicial de la cuenta registrado como liquidez"
     },
     {
+      "fecha": "2026-08-20",
+      "tipo": "APORTACION",
+      "ticker": "-",
+      "importe_eur": 300.03,
+      "participaciones": 0,
+      "comision": 0,
+      "motivo": "Capital inicial adicional: la cuenta paper de IBKR se sembró con 300,03 € más de los 10.000 € registrados (diferencia constante medida el 04 y el 05/09/2026, anotada entonces como desfase y registrada como capital el 15/09/2026). El simulador no admite ingresos periódicos: la cartera opera solo con este capital inicial."
+    },
+    {
       "fecha": "2026-09-01",
       "tipo": "COSTE_FX",
       "ticker": "-",
@@ -314,15 +323,6 @@
     },
     {
       "fecha": "2026-09-07",
-      "tipo": "APORTACION",
-      "ticker": "-",
-      "importe_eur": 200.0,
-      "participaciones": 0,
-      "comision": 0,
-      "motivo": "Ingreso mensual registrado como liquidez"
-    },
-    {
-      "fecha": "2026-09-07",
       "tipo": "COSTE_FX",
       "ticker": "-",
       "importe_eur": 0.0,
@@ -361,28 +361,28 @@
   "historico": [
     {
       "fecha": "2026-09-01",
-      "valor": 9971.58,
-      "aportado": 10000.0
+      "valor": 10271.61,
+      "aportado": 10300.03
     },
     {
       "fecha": "2026-09-03",
-      "valor": 10125.07,
-      "aportado": 10000.0
+      "valor": 10425.1,
+      "aportado": 10300.03
     },
     {
       "fecha": "2026-09-04",
-      "valor": 10092.63,
-      "aportado": 10000.0
+      "valor": 10392.66,
+      "aportado": 10300.03
     },
     {
       "fecha": "2026-09-07",
-      "valor": 10251.79,
-      "aportado": 10200.0
+      "valor": 10351.82,
+      "aportado": 10300.03
     },
     {
       "fecha": "2026-09-14",
-      "valor": 10346.87,
-      "aportado": 10200.0
+      "valor": 10446.9,
+      "aportado": 10300.03
     }
   ],
   "ultima_revision_dividendos": "2026-09-14",
@@ -417,11 +417,5 @@
   ],
   "dividendos_netos_acumulados": 24.38,
   "dividendos_brutos_acumulados": 29.97,
-  "retencion_acumulada": 5.6,
-  "desfase_efectivo_ibkr": {
-    "eur": 300.03,
-    "fecha": "2026-09-05",
-    "motivo": "saldo inicial de la cuenta paper"
-  },
-  "ultima_aportacion_mensual": "2026-09"
+  "retencion_acumulada": 5.6
 }

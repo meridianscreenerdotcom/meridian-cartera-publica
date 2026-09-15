@@ -1,9 +1,9 @@
 # Cartera virtual de MeridIAn Screener — libro mayor público
 
 Registro **público y verificable** de la cartera virtual que gestiona el sistema de
-[meridianscreener.com](https://meridianscreener.com): 10.000 € iniciales en el simulador de
-Interactive Brokers, aportación mensual, selección por ranking cuantitativo y reglas fijas de
-rotación. No hay dinero real detrás; lo que se audita aquí es que **las decisiones y los
+[meridianscreener.com](https://meridianscreener.com): 10.300 € iniciales en el simulador de
+Interactive Brokers (saldo con el que se sembró la cuenta paper), sin aportaciones periódicas —el
+simulador no admite ingresos—, selección por ranking cuantitativo y reglas fijas de rotación. No hay dinero real detrás; lo que se audita aquí es que **las decisiones y los
 resultados que muestra la web no se han reescrito a posteriori**.
 
 ## Qué hay en este repositorio
@@ -39,3 +39,7 @@ commit posterior cambiara un movimiento antiguo, la huella dejaría de encadenar
 Cartera de simulación con fines de investigación y divulgación. No es asesoramiento financiero
 ni una recomendación de inversión. Más información y aviso legal en
 [meridianscreener.com/privacidad/](https://meridianscreener.com/privacidad/).
+
+## Correcciones
+
+Las correcciones al libro (qué se cambió, por qué y la huella antes y después) están en [`CORRECCIONES.md`](CORRECCIONES.md).
