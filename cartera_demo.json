@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 126.4,
+  "efectivo": 132.95,
   "aportado_total": 10300.03,
   "posiciones": {
     "GFI": {
@@ -12,14 +12,16 @@
       "precio_compra_eur": 38.937,
       "fecha_compra": "2026-09-01",
       "nota_compra": 8.0,
-      "z_compra": null,
+      "z_compra": 2.196,
       "moneda": "USD",
       "precio_compra_nativo": 45.149583,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "ALL": {
       "empresa": "Allstate Corporation (The)",
@@ -30,14 +32,16 @@
       "precio_compra_eur": 222.827,
       "fecha_compra": "2026-09-01",
       "nota_compra": 8.0,
-      "z_compra": null,
+      "z_compra": 2.196,
       "moneda": "USD",
       "precio_compra_nativo": 258.380103,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "BMY": {
       "empresa": "Bristol-Myers Squibb Company",
@@ -48,14 +52,16 @@
       "precio_compra_eur": 57.845,
       "fecha_compra": "2026-09-01",
       "nota_compra": 7.8,
-      "z_compra": null,
+      "z_compra": 1.995,
       "moneda": "USD",
       "precio_compra_nativo": 67.074444,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "INCY": {
       "empresa": "Incyte Corporation",
@@ -66,14 +72,16 @@
       "precio_compra_eur": 106.3265,
       "fecha_compra": "2026-09-01",
       "nota_compra": 7.8,
-      "z_compra": null,
+      "z_compra": 1.995,
       "moneda": "USD",
       "precio_compra_nativo": 123.291397,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "NEM": {
       "empresa": "Newmont Corporation",
@@ -84,14 +92,16 @@
       "precio_compra_eur": 106.9128,
       "fecha_compra": "2026-09-01",
       "nota_compra": 7.7,
-      "z_compra": null,
+      "z_compra": 1.895,
       "moneda": "USD",
       "precio_compra_nativo": 123.971244,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "SU": {
       "empresa": "Suncor Energy  Inc.",
@@ -102,14 +112,16 @@
       "precio_compra_eur": 58.5951,
       "fecha_compra": "2026-09-01",
       "nota_compra": 7.7,
-      "z_compra": null,
+      "z_compra": 1.895,
       "moneda": "USD",
       "precio_compra_nativo": 67.944226,
       "cambio_compra": 0.8624,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-01T15:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-01",
+      "z_compra_reconstruido": true
     },
     "HTGC": {
       "empresa": "Hercules Capital, Inc.",
@@ -120,14 +132,16 @@
       "precio_compra_eur": 15.1636,
       "fecha_compra": "2026-09-03",
       "nota_compra": 7.7,
-      "z_compra": null,
+      "z_compra": 1.906,
       "moneda": "USD",
       "precio_compra_nativo": 17.621848,
       "cambio_compra": 0.8605,
       "reconstruido": true,
       "metodo": "yf_1h:USDEUR=X@2026-09-03T14:00Z",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-03",
+      "z_compra_reconstruido": true
     },
     "NOS.LS": {
       "empresa": "NOS, SGPS, SA",
@@ -138,14 +152,16 @@
       "precio_compra_eur": 4.93,
       "fecha_compra": "2026-09-04",
       "nota_compra": 7.3,
-      "z_compra": null,
+      "z_compra": 1.5,
       "moneda": "EUR",
       "precio_compra_nativo": 4.93,
       "cambio_compra": 1.0,
       "reconstruido": true,
       "metodo": "eur_directo",
       "fecha_reconstruccion": "2026-09-05",
-      "validacion": "OK"
+      "validacion": "OK",
+      "z_compra_origen": "2026-09-03",
+      "z_compra_reconstruido": true
     },
     "HAFN": {
       "empresa": "Hafnia Limited",
@@ -383,9 +399,19 @@
       "fecha": "2026-09-14",
       "valor": 10446.9,
       "aportado": 10300.03
+    },
+    {
+      "fecha": "2026-09-18",
+      "valor": 10600.04,
+      "aportado": 10300.03
+    },
+    {
+      "fecha": "2026-09-21",
+      "valor": 10578.99,
+      "aportado": 10300.03
     }
   ],
-  "ultima_revision_dividendos": "2026-09-14",
+  "ultima_revision_dividendos": "2026-09-21",
   "dividendos": [
     {
       "fecha": "2026-09-03",
@@ -413,9 +439,18 @@
       "retencion_pct": 20.0,
       "retenido_eur": 4.4,
       "neto_eur": 17.58
+    },
+    {
+      "fecha": "2026-09-21",
+      "ticker": "LOGN.SW",
+      "pais": "Switzerland",
+      "bruto_eur": 10.08,
+      "retencion_pct": 35.0,
+      "retenido_eur": 3.53,
+      "neto_eur": 6.55
     }
   ],
-  "dividendos_netos_acumulados": 24.38,
-  "dividendos_brutos_acumulados": 29.97,
-  "retencion_acumulada": 5.6
+  "dividendos_netos_acumulados": 30.93,
+  "dividendos_brutos_acumulados": 40.05,
+  "retencion_acumulada": 9.13
 }
