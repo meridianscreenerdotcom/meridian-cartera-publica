@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 132.95,
+  "efectivo": 137.55,
   "aportado_total": 10300.03,
   "posiciones": {
     "GFI": {
@@ -372,6 +372,24 @@
       "participaciones": 7.0,
       "comision": 5.2955,
       "motivo": "Barrido de liquidez: nueva posición (hueco en cartera) · precio real 88.0536 €"
+    },
+    {
+      "fecha": "2026-09-28",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 1.76,
+      "motivo": "Conversión de divisa del lote · conversiones IDEALPRO"
+    },
+    {
+      "fecha": "2026-09-28",
+      "tipo": "COSTE_FX",
+      "ticker": "-",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 1.76,
+      "motivo": "Conversión de divisa del lote · conversiones de rotación y repatriación IDEALPRO"
     }
   ],
   "historico": [
@@ -414,9 +432,14 @@
       "fecha": "2026-09-28",
       "valor": 10261.46,
       "aportado": 10300.03
+    },
+    {
+      "fecha": "2026-10-05",
+      "valor": 10350.51,
+      "aportado": 10300.03
     }
   ],
-  "ultima_revision_dividendos": "2026-09-28",
+  "ultima_revision_dividendos": "2026-10-05",
   "dividendos": [
     {
       "fecha": "2026-09-03",
@@ -453,9 +476,18 @@
       "retencion_pct": 35.0,
       "retenido_eur": 3.53,
       "neto_eur": 6.55
+    },
+    {
+      "fecha": "2026-10-02",
+      "ticker": "BMY",
+      "pais": "United States",
+      "bruto_eur": 9.55,
+      "retencion_pct": 15.0,
+      "retenido_eur": 1.43,
+      "neto_eur": 8.12
     }
   ],
-  "dividendos_netos_acumulados": 30.93,
-  "dividendos_brutos_acumulados": 40.05,
-  "retencion_acumulada": 9.13
+  "dividendos_netos_acumulados": 39.05,
+  "dividendos_brutos_acumulados": 49.6,
+  "retencion_acumulada": 10.56
 }

@@ -1,10 +1,10 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-09-28T13:05:29+00:00 UTC
+Última actualización de este libro: 2026-10-05T13:18:30+00:00 UTC
 
 Aportado total: 10300.03 €  
-Comisiones pagadas: 47.44 €
+Comisiones pagadas: 50.96 €
 
 ## Movimientos (orden cronológico)
 
@@ -30,6 +30,8 @@ Comisiones pagadas: 47.44 €
 | 2026-09-08 | COMPRA | HAFN | 1248.87 | 165.0000 | 0.00 | Barrido de liquidez: nueva posición (hueco en cartera) · fill diferido (reconciliación) · precio real 7.5689 € |
 | 2026-09-14 | COSTE_FX | - | 0.00 | 0.0000 | 1.72 | Conversión de divisa del lote · conversiones IDEALPRO |
 | 2026-09-14 | COMPRA | LOGN.SW | 621.68 | 7.0000 | 5.30 | Barrido de liquidez: nueva posición (hueco en cartera) · precio real 88.0536 € |
+| 2026-09-28 | COSTE_FX | - | 0.00 | 0.0000 | 1.76 | Conversión de divisa del lote · conversiones IDEALPRO |
+| 2026-09-28 | COSTE_FX | - | 0.00 | 0.0000 | 1.76 | Conversión de divisa del lote · conversiones de rotación y repatriación IDEALPRO |
 
 ## Dividendos cobrados
 
@@ -39,7 +41,8 @@ Comisiones pagadas: 47.44 €
 | 2026-09-04 | SU | Canada | 5.98 | 15.0% | 5.09 |
 | 2026-09-11 | GFI | South Africa | 21.98 | 20.0% | 17.58 |
 | 2026-09-21 | LOGN.SW | Switzerland | 10.08 | 35.0% | 6.55 |
+| 2026-10-02 | BMY | United States | 9.55 | 15.0% | 8.12 |
 
 ---
-*Huella SHA-256 de los movimientos en este commit: `0963b9b0898c38f64df00ca7cf49b14efa9aa4934fc71a2e91fe324dcc7a000e`*
+*Huella SHA-256 de los movimientos en este commit: `d3edc9475f93fc9311ed5e6f51359f972d7ba998e39956ee95a68a9758136e80`*
 *Esta huella cambia si se añade, borra o edita cualquier movimiento — compárala entre commits para detectar cualquier alteración retroactiva.*
