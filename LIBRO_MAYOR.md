@@ -1,10 +1,10 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-10-05T13:18:30+00:00 UTC
+Última actualización de este libro: 2026-10-19T13:05:16+00:00 UTC
 
 Aportado total: 10300.03 €  
-Comisiones pagadas: 50.96 €
+Comisiones pagadas: 52.68 €
 
 ## Movimientos (orden cronológico)
 
@@ -32,6 +32,8 @@ Comisiones pagadas: 50.96 €
 | 2026-09-14 | COMPRA | LOGN.SW | 621.68 | 7.0000 | 5.30 | Barrido de liquidez: nueva posición (hueco en cartera) · precio real 88.0536 € |
 | 2026-09-28 | COSTE_FX | - | 0.00 | 0.0000 | 1.76 | Conversión de divisa del lote · conversiones IDEALPRO |
 | 2026-09-28 | COSTE_FX | - | 0.00 | 0.0000 | 1.76 | Conversión de divisa del lote · conversiones de rotación y repatriación IDEALPRO |
+| 2026-10-06 | COSTE_FX | GFI | 0.00 | 0.0000 | 0.86 | Comisión de IBKR de la compra de GFI del 01/09 (1 USD = 0,86 €) que no se apuntó porque el aviso de la comisión no llegó a tiempo; se registra aparte, sin tocar el movimiento original (corrección del 06/10/2026) |
+| 2026-10-06 | COSTE_FX | HAFN | 0.00 | 0.0000 | 0.86 | Comisión de IBKR de la compra de HAFN del 08/09 (1 USD = 0,86 €) que no se apuntó porque el aviso de la comisión no llegó a tiempo; se registra aparte, sin tocar el movimiento original (corrección del 06/10/2026) |
 
 ## Dividendos cobrados
 
@@ -44,5 +46,5 @@ Comisiones pagadas: 50.96 €
 | 2026-10-02 | BMY | United States | 9.55 | 15.0% | 8.12 |
 
 ---
-*Huella SHA-256 de los movimientos en este commit: `d3edc9475f93fc9311ed5e6f51359f972d7ba998e39956ee95a68a9758136e80`*
+*Huella SHA-256 de los movimientos en este commit: `c5aeb3dc0f1cb8024c05c64dfe90796ae7b84cdc4165d47ca1ee4e8db91450e1`*
 *Esta huella cambia si se añade, borra o edita cualquier movimiento — compárala entre commits para detectar cualquier alteración retroactiva.*

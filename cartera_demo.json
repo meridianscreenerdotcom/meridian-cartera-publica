@@ -1,6 +1,6 @@
 {
   "creada": "2026-09-01",
-  "efectivo": 137.55,
+  "efectivo": 135.83,
   "aportado_total": 10300.03,
   "posiciones": {
     "GFI": {
@@ -390,6 +390,24 @@
       "participaciones": 0.0,
       "comision": 1.76,
       "motivo": "Conversión de divisa del lote · conversiones de rotación y repatriación IDEALPRO"
+    },
+    {
+      "fecha": "2026-10-06",
+      "tipo": "COSTE_FX",
+      "ticker": "GFI",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 0.86,
+      "motivo": "Comisión de IBKR de la compra de GFI del 01/09 (1 USD = 0,86 €) que no se apuntó porque el aviso de la comisión no llegó a tiempo; se registra aparte, sin tocar el movimiento original (corrección del 06/10/2026)"
+    },
+    {
+      "fecha": "2026-10-06",
+      "tipo": "COSTE_FX",
+      "ticker": "HAFN",
+      "importe_eur": 0.0,
+      "participaciones": 0.0,
+      "comision": 0.86,
+      "motivo": "Comisión de IBKR de la compra de HAFN del 08/09 (1 USD = 0,86 €) que no se apuntó porque el aviso de la comisión no llegó a tiempo; se registra aparte, sin tocar el movimiento original (corrección del 06/10/2026)"
     }
   ],
   "historico": [
@@ -437,9 +455,14 @@
       "fecha": "2026-10-05",
       "valor": 10350.51,
       "aportado": 10300.03
+    },
+    {
+      "fecha": "2026-10-19",
+      "valor": 10458.01,
+      "aportado": 10300.03
     }
   ],
-  "ultima_revision_dividendos": "2026-10-05",
+  "ultima_revision_dividendos": "2026-10-19",
   "dividendos": [
     {
       "fecha": "2026-09-03",
