@@ -460,9 +460,14 @@
       "fecha": "2026-10-19",
       "valor": 10458.01,
       "aportado": 10300.03
+    },
+    {
+      "fecha": "2026-10-21",
+      "valor": 10517.18,
+      "aportado": 10300.03
     }
   ],
-  "ultima_revision_dividendos": "2026-10-19",
+  "ultima_revision_dividendos": "2026-10-21",
   "dividendos": [
     {
       "fecha": "2026-09-03",
