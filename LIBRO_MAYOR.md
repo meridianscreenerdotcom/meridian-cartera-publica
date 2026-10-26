@@ -1,7 +1,7 @@
 # Libro mayor — MeridIAn Screener
 
 Cartera creada: 2026-09-01  
-Última actualización de este libro: 2026-10-21T13:00:24+00:00 UTC
+Última actualización de este libro: 2026-10-26T13:55:30+00:00 UTC
 
 Aportado total: 10300.03 €  
 Comisiones pagadas: 52.68 €
